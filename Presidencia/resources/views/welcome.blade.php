@@ -31,7 +31,7 @@
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="/">
-                <img alt="logo" class="d-inline-block align-top" height="60" loading="lazy" src="/public/images/log.png" width="60">
+                <img alt="logo" class="d-inline-block align-top" height="60" loading="lazy" src="/images/log.png" width="60">
                 </img>
             </a>
             <button aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarNavAltMarkup" data-toggle="collapse" type="button">
